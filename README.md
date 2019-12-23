@@ -22,4 +22,4 @@ Notes :
 - Simple and fast cod  (speed is about 50 image per second)
 - Work bad if we change the backgroun color or change the light source position , it will work as long as the code is customize with the background and the light source and itensity and this is the case in our application 
 
-# The code with discription [https://github.com/A7med01/Documentation/blob/master/size_color_fruits_v1.ipynb]
+# This notebook has code with discription:[code(https://github.com/A7med01/Documentation/blob/master/size_color_fruits_v1.ipynb)
