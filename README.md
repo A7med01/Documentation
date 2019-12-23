@@ -23,3 +23,5 @@ Notes :
 - Work bad if we change the backgroun color or change the light source position , it will work as long as the code is customize with the background and the light source and itensity and this is the case in our application 
 
 # This notebook has code with discription:[Here](https://github.com/A7med01/Documentation/blob/master/size_color_fruits_v1.ipynb)
+
+# This python file to run locally :[Here](https://github.com/A7med01/Documentation/blob/master/sizeandcolor_v1.py)
