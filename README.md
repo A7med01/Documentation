@@ -13,12 +13,12 @@ This code give the color, diameter and shape of an fruit :
 ![alt text][image2]
 
 
-tools :
--python 3
--OpenCV 4
+Tools :
+- python 3
+- OpenCV 4
 
 Detaied discription of the code in the note book 
 Notes : 
--Simple and fast cod  (speed is about 50 image per second)
--Work bad if we change the backgroun color or change the light source position , it will work as long as the code is customize with the background and the light source and itensity and this is the case in our application 
+- Simple and fast cod  (speed is about 50 image per second)
+- Work bad if we change the backgroun color or change the light source position , it will work as long as the code is customize with the background and the light source and itensity and this is the case in our application 
 
